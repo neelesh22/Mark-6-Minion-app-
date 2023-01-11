@@ -10,4 +10,4 @@ Netlify
 https://minions-speak-translation.netlify.app/
 
 ### Home Page
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
